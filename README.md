@@ -13,7 +13,7 @@ Here's what I worked on specifically:
 * Designed the user dashboard screen.
 * Responsible for setting the project up on Heroku with a hosted database (JawsDB).
 
-Check out our work here; [Deployed Application]https://protected-fjord-40168.herokuapp.com
+Check out our work here; [Deployed Application](https://protected-fjord-40168.herokuapp.com)
 
 ## Setup
 To run this project, clone it locally and setup a local database named 'herbizzle':
@@ -46,7 +46,7 @@ Heena Rajpal
 
 ## Url
 
-[Deployed Application]https://protected-fjord-40168.herokuapp.com
+[Deployed Application](https://protected-fjord-40168.herokuapp.com)
 
 
 
