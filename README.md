@@ -1,12 +1,20 @@
-* # Herbizzle
+# Herbizzle
 
-_Cannabis_** User-custom Note-taking application where a user can track down effects that an individual medical strain had on them, upload pictures, and add positive or negative side effects. 
+This was a group project for school. It is essentially a personal blog. 
 
-#### Problem Statement:
- A solution to keeping track of what strains users have tried, and noting past experiences to help users determine which strains are their favorite
+I was responsible for the backend development of the application, this is a Node.JS centric class:
+* Database structure and setup, usage within the program.
+* User authentication with Passport.js and bcrypt. 
+* Project ORM, using and manipulating the data stored in our databases. Using MySQL and Sequelize.
+* Managed the functionality of user posts, and tieing those posts to user accounts.
+* All api and html routing, fetching user data and making it readable from the UI.
+* Designed the user dashboard screen.
+* Responsible for setting the project up on Heroku with a hosted database (JawsDB).
+
+Check out our work here; [Deployed Application]https://protected-fjord-40168.herokuapp.com
 
 ## Setup
-To run this project, clone it locally :
+To run this project, clone it locally and setup a local database named 'herbizzle':
 
 ```
 $ install npm 
@@ -17,13 +25,14 @@ $ run node server.js
 Project is created with:
 * Bulma CSS
 * The Strains API 
-* Node
+* Node.js
 * Heroku
 * JawsDB
 * Express
+* Express Sessions
 * PrintJS
+* Passport.js
 * The Strain API 
-* Passport JS
 
 ## Credits
 Corrine Pusillo,
@@ -35,7 +44,7 @@ Heena Rajpal
 
 ## Url
 
-[title]https://protected-fjord-40168.herokuapp.com
+[Deployed Application]https://protected-fjord-40168.herokuapp.com
 
 
 
