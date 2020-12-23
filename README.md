@@ -2,7 +2,9 @@
 
 This was a group project for school. It is essentially a personal blog. 
 
-I was responsible for the backend development of the application, this is a Node.JS centric class:
+I was responsible for the backend development of the application, this is a Node.JS centric class.
+
+Here's what I worked on specifically:
 * Database structure and setup, usage within the program.
 * User authentication with Passport.js and bcrypt. 
 * Project ORM, using and manipulating the data stored in our databases. Using MySQL and Sequelize.
